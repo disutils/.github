@@ -166,12 +166,12 @@ We welcome contributions from developers of all skill levels! Here's how you can
         <a href="https://guides.disutils.com">Developer Guides</a><br>
         <a href="https://examples.disutils.com">Code Examples</a>
       </td>
-      <td align="center">
+<!--       <td align="center">
         <h3>🎓 Learning</h3>
         <a href="https://tutorials.disutils.com">Bot Development Tutorials</a><br>
         <a href="https://blog.disutils.com">Development Blog</a><br>
         <a href="https://youtube.com/disutils">Video Tutorials</a>
-      </td>
+      </td> -->
       <td align="center">
         <h3>🆘 Support</h3>
         <a href="https://discord.gg/28RuT8WsKT">Discord Support</a><br>
