@@ -184,7 +184,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 
 ## 🎯 Current Goals & Roadmap
 
-### Q3 2025 Objectives
+### Q4 2025 Objectives
 - [ ] Launch Disckit v2.0 with enhanced features
 - [ ] Reach 2,000+ communities using our bots
 - [ ] Expand team with 5+ new contributors
