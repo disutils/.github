@@ -146,7 +146,7 @@ We are a passionate collective of developers, designers, and community builders 
 We welcome contributions from developers of all skill levels! Here's how you can get involved:
 
 ### 🌟 Ways to Contribute
-- **Code Contributions**: Help improve our libs
+- **Code Contributions**: Help improve our libraries
 - **Documentation**: Write guides, tutorials, and API documentation
 - **Bug Reports**: Help us identify and fix issues
 - **Feature Requests**: Suggest new features and improvements
