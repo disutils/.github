@@ -192,7 +192,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 
 ### Long-term Vision
 - **Ecosystem Growth**: Become one of the GREAT teams that makes Discord bots!
-- **Innovation**: Make new approaches to Discord bot development
+- **Innovation**: Develop new approaches to Discord bot development
 - **Community**: Foster a supportive, inclusive developer community
 
 ## 💰 Support Our Mission
