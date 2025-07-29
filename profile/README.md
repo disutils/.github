@@ -124,7 +124,7 @@ We are a passionate collective of developers, designers, and community builders 
 ## 🚀 Our Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,react,fastapi,express,mongodb,postgres,docker,git" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,react,fastapi,express,postgres,docker,git" alt="Tech Stack" />
   
   <br><br>
   
