@@ -85,7 +85,7 @@ We are a passionate collective of developers, designers, and community builders 
         <a href="https://github.com/RejectModders">
           <img src="https://github.com/RejectModders.png?size=100" width="100px;" alt="RejectModders"/>
           <br />
-          <sub><b>RejectModders</b></sub>
+          <sub><b>Liam Henry</b></sub>
           <br />
           <sub>Founder</sub>
         </a>
@@ -103,7 +103,7 @@ We are a passionate collective of developers, designers, and community builders 
         <a href="https://github.com/Jiggly-Balls">
           <img src="https://github.com/Jiggly-Balls.png?size=100" width="100px;" alt="Jiggly Balls"/>
           <br />
-          <sub><b>Jiggly Balls</b></sub>
+          <sub><b>Krish Mohan</b></sub>
           <br />
           <sub>Founder</sub>
         </a>
@@ -112,7 +112,7 @@ We are a passionate collective of developers, designers, and community builders 
         <a href="https://github.com/dbcaa">
           <img src="https://github.com/dbcaa.png?size=100" width="100px;" alt="joe?"/>
           <br />
-          <sub><b>joe?</b></sub>
+          <sub><b>Joe Hawley</b></sub>
           <br />
           <sub>Founder</sub>
         </a>
