@@ -2,7 +2,7 @@
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Disutils%20Team&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enhancing%20Discord%20Communities%20|%20Building%20Better%20Tools%20|%20Empowering%20Developers&descAlignY=60&descAlign=50)
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=4ade80&center=true&vCenter=true&random=false&width=600&height=60&lines=Discord+Bot+Development;Community+Enhancement+Tools;Open+Source+Libraries;Developer+Resources;API+Solutions" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&pause=1000&color=4ade80&center=true&vCenter=true&random=false&width=600&height=60&lines=Discord+Bot+Development;Community+Enhancement+Tools;Advanced+Bot+Technology;Developer+Resources;API+Solutions" alt="Typing SVG"/>
   
   <br>
   <img src="https://komarev.com/ghpvc/?username=disutils&label=Organization%20Views&color=4ade80&style=flat" alt="profile views" />
@@ -21,22 +21,22 @@
 
 > *"A dedicated group of individuals committed to enhancing and simplifying the Discord experience for all users."*
 
-We are a passionate collective of developers, designers, and community builders focused on creating innovative tools and resources for the Discord ecosystem. Our mission is to bridge the gap between complex Discord development and user-friendly solutions that empower communities worldwide.
+We're a dedicated collective of developers, designers, and community builders focused on creating innovative tools and resources for the Discord ecosystem. Our projects include **Sentinel**, **Playdis**, **UtiliCore**, **Harmodify**, **HelpDesk**, **Spotlight**, and **PrivateEyes** — each designed to enhance moderation, entertainment, security, and management on Discord.
+
+> **Note:** Our bots are **not open source**. All code is private, but our team is always growing, and we welcome like-minded people to join us in building the future of bot technology.
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
         <h3>🚀 Our Impact</h3>
-        <p><strong>1,300+</strong> Discord Communities Served</p>
-        <p><strong>50,000+</strong> Users Reached</p>
-        <p><strong>25+</strong> Open Source Projects</p>
+        <p><strong>1,500+</strong> Discord Communities Served</p>
+        <p><strong>150,000+</strong> Users Reached</p>
       </td>
       <td align="center">
         <h3>🎯 Our Focus</h3>
         <p>Discord Bot Development</p>
-        <p>Community Management Tools</p>
-        <p>Developer Libraries & APIs</p>
+        <p>Developer Libraries</p>
       </td>
     </tr>
   </table>
@@ -55,7 +55,9 @@ We are a passionate collective of developers, designers, and community builders 
       <td>
         <ul>
           <li><b><a href="https://discord.com/oauth2/authorize?client_id=1295511768210214942&scope=bot&permissions=278598511734">Sentinel</a></b><br>Advanced moderation bot</li>
+          <li><b>Playdis</b><br>Entertainment & Games</li>
           <li><b><a href="https://discord.com/oauth2/authorize?client_id=1295512167151304805&scope=bot&permissions=418760674768">Harmodify</a></b><br>Music Bot</li>
+          <li><b>HelpDesk</b><br>Support & Ticketing</li>
           <li><b><a href="https://discord.com/oauth2/authorize?client_id=1295512320801374279&scope=bot&permissions=414464732304">PrivateEyes</a></b><br>NSFW Bot</li>
         </ul>
       </td>
@@ -63,13 +65,13 @@ We are a passionate collective of developers, designers, and community builders 
         <ul>
           <li><b><a href="https://github.com/disutils/disckit">Disckit</a></b><br>Advanced Discord.py framework</li>
           <li><b><a href="https://github.com/disutils/discord-utils">DisMusic</a></b><br>A powerful music streaming platform that aggregates multiple sources into one beautiful interface.</li>
-<!--           <li><b><a href="https://github.com/disutils/api-wrapper">API Wrapper</a></b><br>Simplified Discord API interactions</li>
-        </ul> -->
+        </ul>
       </td>
       <td>
         <ul>
           <li><b><a href="https://disutils.com">Disutils Website</a></b><br>Main platform and documentation</li>
           <li><b><a href="https://status.disutils.com">Status Page</a></b><br>Service monitoring and updates</li>
+          <li><b><a href="https://disutils.com/apply-staff">Staff Applications</a></b><br>Join our team</li>
         </ul>
       </td>
     </tr>
@@ -139,19 +141,55 @@ We are a passionate collective of developers, designers, and community builders 
   ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 </div>
 
-## 🤝 Contributing to Disutils
+## 🤝 Joining the Disutils Team
 
-We welcome contributions from developers of all skill levels! Here's how you can get involved:
+Joining our team means contributing your time and skills to a **voluntary** community-driven project.
 
-### 🌟 Ways to Contribute
-- **Code Contributions**: Help improve our libraries
-- **Documentation**: Write guides, tutorials, and API documentation
-- **Bug Reports**: Help us identify and fix issues
-- **Feature Requests**: Suggest new features and improvements
-- **Community Support**: Help other users in our Discord server
+⚠️ **This is NOT a paid position** — all work is voluntary.
 
-### 📋 Getting Started
-1. Join our [Discord server](https://discord.gg/28RuT8WsKT) to connect with the team
+It's a great opportunity to:
+- Gain real-world development and teamwork experience
+- Collaborate with skilled developers and managers  
+- Work on meaningful, high-impact tools for thousands of Discord users
+
+<div align="center">
+  <a href="https://disutils.com/apply-staff">
+    <img src="https://img.shields.io/badge/Apply_Now-4ade80?style=for-the-badge&logo=discord&logoColor=white" alt="Apply Now">
+  </a>
+</div>
+
+### 🎯 Available Roles
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🟩 Open Positions</th>
+      <th>🟥 Promotion Only</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li><b>Junior Bot Developer</b><br>Python, discord.py</li>
+          <li><b>Junior Backend Developer</b><br>Python, FastAPI, PostgreSQL</li>
+          <li><b>Junior Web Developer</b><br>HTML, CSS, JS, FastAPI</li>
+          <li><b>System Administrator</b><br>Linux, Docker, Networking</li>
+          <li><b>Operations Manager</b><br>Project Management</li>
+          <li><b>Manager</b><br>Community Leadership</li>
+          <li><b>Moderator</b><br>Discord Moderation</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><b>Lead Bot Developer</b><br>Earned internally</li>
+          <li><b>Lead Backend Developer</b><br>Earned internally</li>
+          <li><b>Lead Web Developer</b><br>Earned internally</li>
+          <li><b>Administrator</b><br>Earned internally</li>
+          <li><b>Lead Moderator</b><br>Earned internally</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📚 Resources & Documentation
 
@@ -160,43 +198,21 @@ We welcome contributions from developers of all skill levels! Here's how you can
     <tr>
       <td align="center">
         <h3>📖 Documentation</h3>
-        <a href="https://docs.disutils.com">Complete API Docs</a><br>
-        <a href="https://guides.disutils.com">Developer Guides</a><br>
-        <a href="https://examples.disutils.com">Code Examples</a>
+        <a href="https://docs.disutils.com">Bot Documentation</a><br>
       </td>
-<!--       <td align="center">
-        <h3>🎓 Learning</h3>
-        <a href="https://tutorials.disutils.com">Bot Development Tutorials</a><br>
-        <a href="https://blog.disutils.com">Development Blog</a><br>
-        <a href="https://youtube.com/disutils">Video Tutorials</a>
-      </td> -->
       <td align="center">
         <h3>🆘 Support</h3>
         <a href="https://discord.gg/28RuT8WsKT">Discord Support</a><br>
-        <a href="https://github.com/disutils/support">Issue Tracker</a><br>
         <a href="https://status.disutils.com">Service Status</a>
       </td>
     </tr>
   </table>
 </div>
 
-## 🎯 Current Goals & Roadmap
-
-### Q4 2025 Objectives
-- [ ] Launch Disckit v2.0 with enhanced features
-- [ ] Reach 2,000+ communities using our bots
-- [ ] Expand team with 5+ new contributors
-- [ ] Open source 10+ additional tools
-
-### Long-term Vision
-- **Ecosystem Growth**: Become one of the GREAT teams that makes Discord bots!
-- **Innovation**: Develop new approaches to Discord bot development
-- **Community**: Foster a supportive, inclusive developer community
-
 ## 💰 Support Our Mission
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/disutilsteam" target="_blank">
+  <a href="https://buymeacoffee.com/disutilsteam" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Us_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Us Coffee">
   </a>
   <a href="https://github.com/sponsors/disutils" target="_blank">
@@ -207,7 +223,7 @@ We welcome contributions from developers of all skill levels! Here's how you can
 ## 📬 Connect With Us
 
 <div align="center">
-  <a href="mailto:team@disutils.com">
+  <a href="mailto:support@disutils.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://discord.gg/28RuT8WsKT">
