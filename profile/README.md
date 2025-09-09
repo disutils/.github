@@ -94,7 +94,7 @@ We're a dedicated collective of developers, designers, and community builders fo
       </td>
       <td align="center">
         <a href="https://github.com/wolf4605">
-          <img src="https://disutils.com/staff-images/LeadBotDevelopers/wolf.png" width="100px;" alt="Wolf"/>
+          <img src="https://github.com/wolf4605.png?size=100" width="100px" width="100px;" alt="Wolf"/>
           <br />
           <sub><b>Wolf</b></sub>
           <br />
