@@ -212,7 +212,7 @@ It's a great opportunity to:
 ## 💰 Support Our Mission
 
 <div align="center">
-  <a href="https://buymeacoffee.com/disutilsteam" target="_blank">
+  <a href="https://buy.stripe.com/dRmaEQ9M78b463H2UA3Je02" target="_blank">
     <img src="https://img.shields.io/badge/Buy_Us_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Us Coffee">
   </a>
   <a href="https://github.com/sponsors/disutils" target="_blank">
